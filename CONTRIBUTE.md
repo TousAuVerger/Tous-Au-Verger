@@ -2,6 +2,14 @@
 
 - `mkdocs serve` pour tester en local
 - `git commit -am "msg`" pour confirmer les modifications sur la `branche` `main`
+- `git push` pour mettre a jour le repo github
+
+# Déploiement du site statique
+
+- `mkdocs build` pour verifier que tout va bien (corriger le cas echéant)
+
+
+
 
  
 
