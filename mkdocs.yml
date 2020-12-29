@@ -1,3 +1,6 @@
 site_name: My Docs
 theme:
   name: material
+  language: fr
+plugins:
+  - search    
