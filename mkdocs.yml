@@ -4,9 +4,8 @@ extra:
       link: https://github.com/afaucogney
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/Tous-Au-Verger-106680710873061/
-  disqus: <tous-au-verger>
+#  disqus: <tous-au-verger>
 
-      
 site_name: Tous au Verger
 site_url: https://afaucogney.github.io/Tous-Au-Verger/
 site_description: "Une assocation qui valorise les fruitiers delaissés"
@@ -20,11 +19,33 @@ theme:
     primary: 'green'
     accent: 'light-red'
   favicon: 'images/favicon.png'
-  logo: 'images/logo.jpg'
+  logo: 'images/favicon.png'
+  features:
+    - tabs
 
-markdown_extensions:
-  - pymdownx.emoji
+#markdown_extensions:
+#  - pymdownx.emoji
   
 plugins:
   - search  
 
+nav:
+  - 'Association': index.md
+  - 'Equipe': equipe.md
+  - 'Evenements': evenements.md 
+  - 'Formations': formations.md   
+  - 'Vergers':
+    - 'La Fleurias' : vergers/verger_la_fleuriais.md
+    - 'Beauvais' : vergers/verger_beauvais.md
+    - 'Parc Expo' : vergers/verger_parc_expo.md
+  - 'Actions' :
+    - '2020':
+      - 'Cueillette de Kaki': actions/2020_12_kaki.md
+      - 'Jus de Pommes': actions/2020_10_jus.md
+      - 'Cueillette à Argentré': actions/2020_10_verger.md
+      - 'Taille à Vitré': actions/2020_04_taille.md
+      - 'Formation Taille': actions/2020_02_formation.md
+    - '2019':
+      - 'Jus de Pommes': actions/2019_10_jus.md
+      - 'Cueillette à Vitré': actions/2019_10_verger.md
+  - 'Contact': contact.md
