@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Tous au verger
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Valorise les arbres fruitiers delaissées !
 
-## Commands
+## Que fait "Tous au Verger" ?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Au sein de notre association :
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Nous préservons le patrimoine végétal et local
+- Nous mettons en place des événements pour la collecte
+- Nous effectuons la tailles des fruitiers
+- Nous effectuons la greffe des fruitiers
+- Nous effectuons la transformations des fruits
+- Nous effectuons la vente de produits issues des fruits récoltés
+- Nous sensibilisons à l'environment et au gaspillage
+- Nous travaillons avec les établissements d'insertion
