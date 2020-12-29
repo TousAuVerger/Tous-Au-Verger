@@ -1,10 +1,17 @@
-site_name: My Docs
+site_name: Tous au Verger
+site_url: https://afaucogney.github.io/Tous-Au-Verger/
+site_description: "Une assocation qui valorise les fruitiers delaissés"
+site_author: Anthony Faucogney
+remote_branch: gh-pages
+
 theme:
   name: material
   language: fr
   palette:
-    primary: 'light-green'
+    primary: 'green'
     accent: 'light-red'
+  favicon: 'images/favicon.png'
+  logo: 'images/favicon.png'
 
 markdown_extensions:
   - pymdownx.emoji
