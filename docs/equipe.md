@@ -1,7 +1,7 @@
 L'équipe d'annimation est la suivante :
 
  - Benoit B.
- - Olivier
+ - Olivier A.
  - Anthony F.
  - Mylene T.
  - Jean M.

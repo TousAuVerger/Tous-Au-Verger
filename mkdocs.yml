@@ -48,4 +48,9 @@ nav:
     - '2019':
       - 'Jus de Pommes': actions/2019_10_jus.md
       - 'Cueillette à Vitré': actions/2019_10_verger.md
+  - 'Variétés':
+    - 'Jaune de Vitré': varietes/pomme/cidre/jaune_de_vitre.md
+  - 'Recettes':
+    - 'Mousse de Kaki' : recettes/mousse_de_kaki.md
+  - 'On parle de nous': journaux.md
   - 'Contact': contact.md
