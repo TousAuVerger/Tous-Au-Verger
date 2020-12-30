@@ -1,9 +1,9 @@
-L'équipe d'annimation est la suivante :
+L'équipe d'animation est la suivante :
 
- - Benoit B.
- - Olivier A.
- - Anthony F.
- - Mylene T.
- - Jean M.
- - DidierC.
- - Denis P.
+- Benoit B.
+- Olivier A.
+- Anthony F.
+- Mylène T.
+- Jean M.
+- DidierC.
+- Denis P.
