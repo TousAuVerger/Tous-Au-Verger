@@ -56,6 +56,7 @@ nav:
     - 'Jaune de Vitré': varietes/pomme/cidre/jaune_de_vitre.md
   - 'Recettes':
     - 'Mousse de Kaki' : recettes/mousse_de_kaki.md
+    - 'Compote de pommes' : recettes/compote_pomme.md
   - 'On parle de nous': journaux.md
   - 'Contact': contact.md
 
