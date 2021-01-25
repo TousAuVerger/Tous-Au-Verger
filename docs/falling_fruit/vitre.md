@@ -1,7 +1,7 @@
 # Vitré
 
 Le référencement des arbres fruitiers du domaine public est disponible sur le site [Falling Fruit](https://fallingfruit.org/).
-N'hésitez pas contribuer !
+N'hésitez pas à contribuer !
 
 ## Carte :
 
@@ -11,7 +11,7 @@ Voici la zone de Vitré :
 
 ## Données :
 
-Clicker [ici](https://fallingfruit.org/locations/data.csv?muni=1&nelat=48.154617129460675&nelng=-1.0360436257019034&swlat=48.088152994012376&swlng=-1.3313011940612784&locale=fr) pour télécharger les fruitiers référencés pour Vitré
+Cliquer [ici](https://fallingfruit.org/locations/data.csv?muni=1&nelat=48.154617129460675&nelng=-1.0360436257019034&swlat=48.088152994012376&swlng=-1.3313011940612784&locale=fr) pour télécharger les fruitiers référencés pour Vitré
 
 ## Mode d'emploi de la carte
 
@@ -19,7 +19,7 @@ Dans cette carte, vous voyez Vitré et les arbres référencés.
 Sur la carte, vous pouvez :
 
 - naviguer
-- zoomer / dézoomer
+- zoomer / dé-zoomer
 - passer en mode StreetView en glissant le petit bonhomme Jaune sur la route souhaitée
 - changer les fonds de carte
     - OSM (Open Street Map)
