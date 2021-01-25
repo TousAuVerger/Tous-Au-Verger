@@ -33,15 +33,23 @@ extra_css:
 plugins:
   - search  
 
+#google_analytics:
+#  - G-3BVX32BBY8
+#  - auto
+
 nav:
   - 'Association': index.md
   - 'Equipe': equipe.md
   - 'Evenements': evenements.md 
-  - 'Formations': formations.md   
+  - 'Formations': formations.md
+  - 'Zones de glanage':
+    - 'Vitré' : falling_fruit/vitre.md
   - 'Vergers':
     - 'La Fleurias' : vergers/verger_la_fleuriais.md
     - 'Beauvais' : vergers/verger_beauvais.md
     - 'Parc Expo' : vergers/verger_parc_expo.md
+    - 'Les Ormaux' : vergers/verger_les_ormaux.md
+    - 'Mmo' : vergers/verger_mmo.md
   - 'Actions' :
     - '2020':
       - 'Cueillette de Kaki': actions/2020_12_kaki.md
