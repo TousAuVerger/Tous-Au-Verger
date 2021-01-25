@@ -10,7 +10,7 @@ Ce dépôt comporte :
 - des fichiers de configuration et d'automatisation
 
 Pour contribuer :
-- au contenu, suivez la [procedure](CONTRIBUTE_CONTENT.md)
+- au contenu, suivez la [procédure](CONTRIBUTE_CONTENT.md)
 
 Pour visiter le site :
 - aller sur [Tous Au Verger](https://afaucogney.github.io/Tous-Au-Verger/)

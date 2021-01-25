@@ -2,41 +2,46 @@
 
 ## Statistiques
 
- - Vitré
- - 50 pommiers
- - 10 ans
+ | Commune | Vitré |
+ | --- | --- |
+ | Type | verger |
+ | Nom | verger de la Fleuriais |
+ | Age | 10 ans |
+ | Variété principale | pommier |
+ | Superficie | 5 000 m2 |
+  
+## Variétés  
 
- | Essences | Nombre d'arbres | Arbres |
- | --- | --- | --- |
- | Reine des renettes | | |
- | Reinette clocharde | | |
- | Jaune de Vitré | | |
- | ... | | |
+ | Essences | Nombre d'arbres | Arbres | Récolte moyenne annuelle |
+ | --- | --- | --- | --- |
+ | Reine des rénettes | | | |
+ | Reinette clocharde | | | |
+ | Jaune de Vitré | | | |
+ | ... | | | |
 
 ## Cartes
 
-### Emplacement géographique 
-
-<iframe width="700" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-1.2053686380386355%2C48.10948543309107%2C-1.2023645639419558%2C48.11158078545601&amp;layer=mapnik&amp;marker=48.110533119953%2C-1.2038666009902954" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=48.11053&amp;mlon=-1.20387#map=19/48.11053/-1.20387">Afficher une carte plus grande</a></small>
-
-### Délimitation des fruitiers
-
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/verger-de-vitre_543437?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/verger-de-vitre_543437">Voir en plein écran</a></p> 
+### Délimitation du verger et de ses fruitiers (Open Street Map)
 
 <iframe width="100%" height="600px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/verger-de-vitre_543437?scaleControl=true&miniMap=true&scrollWheelZoom=false&zoomControl=false&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=true&datalayers=1540598&feature=Verger%20La%20Fleuriais%201#19/48.11031/-1.20386"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/verger-de-vitre_543437">Voir en plein écran</a></p>
 
 ### Google Map
 
-### StreeView
+<iframe width="800" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-1.2053686380386355%2C48.10948543309107%2C-1.2023645639419558%2C48.11158078545601&amp;layer=mapnik&amp;marker=48.110533119953%2C-1.2038666009902954" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=48.11053&amp;mlon=-1.20387#map=19/48.11053/-1.20387">Afficher une carte plus grande</a></small>
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1609622771285!6m8!1m7!1s8ijbWVh_qnXgkBgxNqNpBg!2m2!1d48.11033164833255!2d-1.204637042697159!3f62.629966893698736!4f9.794693421832164!5f0.9738445459859733" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+### StreetView
+
 <iframe src="https://www.google.com/maps/embed?pb=!4v1609622771285!6m8!1m7!1s8ijbWVh_qnXgkBgxNqNpBg!2m2!1d48.11033164833255!2d-1.204637042697159!3f62.629966893698736!4f9.794693421832164!5f0.9738445459859733" width="800" height="600" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1609622853639!6m8!1m7!1sw8wQWsqstW0oZwCsDg6uUw!2m2!1d48.10986979183564!2d-1.204288334387221!3f230.0631857061268!4f3.0695338187297097!5f0.7820865974627469" width="800" height="600" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1609622928808!6m8!1m7!1sKCzZp7g5HwfDg3hiGaNlKQ!2m2!1d48.11011564833413!2d-1.202796803882463!3f47.805554341553716!4f-2.1365691437275416!5f0.7820865974627469" width="800" height="600" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 ## Plan des essences
 
+<span style="color:red">Oliver si tu lis ca ! Fait moi signe </span>.
+
 ## Evolution des arbres
+
+Ici quelques photos (encore dans le désordre), pour voir l'évolution apres la taille effectue pendant l'hiver 2020
 
 ### Septembre 2020
 
@@ -208,8 +213,9 @@
   <object data="https://lh3.googleusercontent.com/6AA3UXg2G7P3K462UOSwtEcxBvQrdm4sHp2kxklcfvGR_EfJ5z-QT02T18PoSyPJ22Iu1-NaU7paUS6-JdXLMn0_A8DaLM8hpaWTO3c31DqR6nTlMsj77p83ZO8MxhIGvBipL8F08QY=w1920-h1080"></object>
 </div>
 
-## Historique
+## Journal d'entretien 
 
+ - 2020 - Pas de récolte (pas de pommes)
  - 2020 - Taille par "Tous au Verger" 
  - 2019 - Récolte par "Tous au Verger"
  - 20__ - Mauvaise taille effectuée 
