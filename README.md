@@ -13,4 +13,4 @@ Pour contribuer :
 - au contenu, suivez la [procédure](CONTRIBUTE_CONTENT.md)
 
 Pour visiter le site :
-- aller sur [Tous Au Verger](https://afaucogney.github.io/Tous-Au-Verger/)
+- aller sur [Tous Au Verger](https://www.tousauverger.fr/)

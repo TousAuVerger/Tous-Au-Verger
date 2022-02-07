@@ -396,7 +396,7 @@ Ici quelques photos (encore dans le désordre), pour voir l'évolution apres la 
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/xA16myLXzWZtQj5L6"
   data-title="Verger - La Fleuriais - Evolution - Pommier 01"
-  data-description="7 new items added to shared album">
+  data-description="6 new items added to shared album">
   <object data="https://lh3.googleusercontent.com/R02PI2MP6T9neIbboVSkZYYWmr2DtnAKmugacvUtmoYj-CBDLkpZOQQ4J6kfCR4s6jB80VupmzqXWX1bATgBHYT6NYbhwjjZeQD_GAiCZG31nViZGQSPIg4UquZT-Cuu6D1kuORUeI4=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/D0iwQu7wk0b3sicxOOy-xV-Bsg4uF9VsWgKlLs5yQNFdRMrdO8LA3ZBTisZhr5UXF9hJKEn4lYHL8mukrbbuob8yUMqbLI53thtOe1pHoq8FTkhUKoYr0uXK7HGxhxw_kve9zsOeNcQ=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/Iy76FpiKRZBrHbKO9jrAJ4DJNVYnTJO7cq3QxFS409FifRqLDIW9JoAnEjb2k0jsrwivNUWwki808_5tAlxzAB_QSEgLUgFSZ5cbUGD5-Kau5EnGNPL7tkA3primdAA1weHDwcULU1A=w1920-h1080"></object>
