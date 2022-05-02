@@ -4,7 +4,7 @@
 
 Valorise les arbres fruitiers délaissés !
 
-![Tous au Verger](images/logo.jpg){: .center}
+![Tous au Verger](images/logo.jpg){: .center width="300px" height="300px"}
 
 ## Que fait "Tous au Verger" ?
 

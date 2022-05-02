@@ -5,6 +5,9 @@ extra:
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/Tous-Au-Verger-106680710873061/
   disqus: 'tous-au-verger'
+  analytics:
+    provider: google
+    property: G-3BVX32BBY8
 
 site_name: Tous au Verger
 site_url: https://www.tousauverger.fr/
@@ -13,6 +16,7 @@ site_author: Anthony Faucogney
 remote_branch: gh-pages
 
 theme:
+  font: false
   name: material
   language: fr
   palette:
@@ -28,14 +32,18 @@ markdown_extensions:
 #  - pymdownx.emoji
 
 extra_css:
-  - stylesheets/extra.css
+#  - stylesheets/extra.css
   
 plugins:
-  - search  
-
-#google_analytics:
-#  - G-3BVX32BBY8
-#  - auto
+  - search
+  - minify:
+        minify_html: true
+        minify_js: true
+        minify_css: true
+        htmlmin_opts:
+          remove_comments: true
+        css_files:
+        js_files:
 
 nav:
   - 'Association': index.md
