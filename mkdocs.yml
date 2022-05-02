@@ -13,7 +13,9 @@ site_name: Tous au Verger
 site_url: https://www.tousauverger.fr/
 site_description: "Une assocation qui valorise les fruitiers delaissés"
 site_author: Anthony Faucogney
+repo_url: https://github.com/TousAuVerger/Tous-Au-Verger
 remote_branch: gh-pages
+edit_uri: 'edit/main/docs/'
 
 theme:
   font: false
