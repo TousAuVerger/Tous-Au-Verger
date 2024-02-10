@@ -31,11 +31,14 @@ theme:
 
 markdown_extensions:
   - attr_list
+  - neoteroi.cards:
+      blank_target: true
 #  - pymdownx.emoji
 
 extra_css:
+  - css/neoteroi-mkdocs.css
 #  - stylesheets/extra.css
-  
+
 plugins:
   - search
   - minify:

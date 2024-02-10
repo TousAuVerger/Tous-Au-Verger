@@ -27,3 +27,19 @@ Dans le pays de Vitré, mais nous sommes ouvert aux collaborations avec d'autres
 
 Une bande de bénévoles qui aiment notre patrimoine végétal et détestent le gaspi ! 
 
+## Événements à venir :
+
+::cards:: cols=1 image-bg
+
+- title: Bourse aux greffons
+  content: |
+    L'association **Tous-au-verger** organise le **dimanche 18 février 2024**  
+    - à l'écomusée de Rennes, [La Bintinais](https://www.ecomusee-rennes-metropole.fr/agenda/entretien-du-verger-2/)  
+    - à partir de 14h  
+    - greffons pour des variétés de pommes 🍏, poires 🍐 et cerises 🍒  
+    - possibilité de greffage sur place par les animateurs  
+    - greffage sur porte-greffes pour petits jardins (Cognassier M106, M26, M9)  
+    Commentaires sur [Facebook](https://www.facebook.com/tousauverger/?locale=fr_FR)
+  image: img/greffage.jpg
+  
+::/cards::

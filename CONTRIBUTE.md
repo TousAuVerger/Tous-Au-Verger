@@ -1,5 +1,9 @@
 # Déploiement sur github.com (Pour les devs)  
 
+## Installation (MacOS)
+
+- lancer le script **install_mkdocs_deps.sh**
+
 ## Faire les modifications en md
 
 - `mkdocs serve` pour tester en local
@@ -29,3 +33,6 @@
 Aller sur [Umap](http://umap.openstreetmap.fr/fr/map/verger-de-vitre_543437) et partager une carte !
 - Bien faire pointer le centre de la carte 
 - 500 px de haut
+
+## Ajouter une actu dans la page d'accueil
+- ajouter une image dans le repertoire img

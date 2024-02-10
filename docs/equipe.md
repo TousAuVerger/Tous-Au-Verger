@@ -1,9 +1,21 @@
-L'équipe d'animation est la suivante :
+Les membres du bureau sont :
 
-- Benoit B.
-- Olivier A.
-- Anthony F.
-- Mylène T.
-- Jean M.
-- DidierC.
-- Denis P.
+- Didier Chemin : président
+- Benoit Brault : secrétaire
+- Oliver Allain : trésorier
+
+Les membres de l’équipe d'animation sont :
+
+- Benoit Brault.
+- Olivier Allain.
+- Anthony Faucogney.
+- Didier Chemin.
+- Denis Passard.
+- Jo Theard.
+- Georges Esnault.
+- Jean Messe.
+- Marie Jo Chemin.
+- Marie France Bonnant.
+- Guy Allain.
+
+ 
