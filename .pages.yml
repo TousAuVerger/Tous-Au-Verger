@@ -16,7 +16,7 @@ content:
     path: docs/contact.md
     type: file
   - name: logs
-    label: Journaux
+    label: On parle de nous
     path: docs/journaux.md
     type: file
   - name: event
