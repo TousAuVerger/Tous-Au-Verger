@@ -29,10 +29,6 @@ content:
     path: docs/recettes
     type: collection
     fields: 
-      - name: published
-        label: Published
-        type: boolean
-        default: true
       - name: date
         label: Date
         type: date
@@ -43,22 +39,43 @@ content:
         label: Body
         type: rich-text    
     view:
-      fields: [ title, date, published ] # title is the first entry and thus will be set to primary
-      sort: [ date, title, published ]
- 
-        
+      fields: [ title, date ]
+      sort: [ date, title ]
+       
   - name: verger
     label: Vergers
     path: docs/vergers
     type: collection
+    fields: 
+      - name: date
+        label: Date
+        type: date
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text      
   - name: varietes
     label: Varietes
     path: docs/varietes
     type: collection
+    fields: 
+      - name: date
+        label: Date
+        type: date
+      - name: title
+        label: Title
+        type: string
+      - name: variete
+        label: Variete
+        type: string
+      - name: body
+        label: Body
+        type: rich-text      
 
   
-  
-  - name: falling-fruit
-    label: Zone de Glanage
-    path: docs/falling_fruit
-    type: collection    
+  # - name: falling-fruit
+  #   label: Zone de Glanage
+  #   path: docs/falling_fruit
+  #   type: collection    
