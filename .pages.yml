@@ -94,7 +94,7 @@ content:
         type: rich-text      
 
   
-  # - name: falling-fruit
-  #   label: Zone de Glanage
-  #   path: docs/falling_fruit
-  #   type: collection    
+  - name: falling-fruit
+    label: Zone de Glanage
+    path: docs/falling_fruit
+    type: collection    
