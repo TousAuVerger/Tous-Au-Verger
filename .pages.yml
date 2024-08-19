@@ -28,7 +28,20 @@ content:
     label: Recettes
     path: docs/recettes
     type: collection
-    fields: [ title, date, author ]
+    fields: 
+      - name: published
+        label: Published
+        type: boolean
+        default: true
+      - name: date
+        label: Date
+        type: date
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text    
     view:
       fields: [ title, date, published ] # title is the first entry and thus will be set to primary
       sort: [ date, title, published ]
