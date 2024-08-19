@@ -2,6 +2,9 @@ media:
   input: docs/images
   output: images
 content:
+  - name: home
+    path: docs/index.md
+    type: file
   - name: recettes
     label: Recettes
     path: docs/recettes
