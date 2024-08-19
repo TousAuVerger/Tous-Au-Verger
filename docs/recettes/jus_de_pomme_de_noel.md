@@ -5,24 +5,33 @@ title: Jus de pomme de noël !
 ---
 # Ingrédients (6 personnes)
 
-- 4 clous de girofle
-- 2 bâtons de cannelles
-- 2 etoiles de badiane
-- 1 litre de jus de pomme
-- 1 Orange
+*   4 clous de girofle
+    
+*   2 bâtons de cannelles
+    
+*   2 étoiles de badiane
+    
+*   1 litre de jus de pomme
+    
+*   1 Orange
+    
 
 # Préparation
 
-- Verser dans une casserole le jus de pommes.
-- Couper l'orange en rondelle mettre dans la casserole.
-- Mettre sur feu doux pendant 2 mn puis rajouter les épices.
-- Arrêter le feu quand c'est bien chaud, mais attention, il faut éviter que ça bouille.
+*   Verser dans une casserole le jus de pommes.
+    
+*   Couper l'orange en rondelle mettre dans la casserole.
+    
+*   Mettre sur feu doux pendant 2 mn puis rajouter les épices.
+    
+*   Arrêter le feu quand c'est bien chaud, mais attention, il faut éviter que ça bouille.
+    
 
 # Idée
 
-- Ajouter une cuillere de miel
+*   Ajouter une cuillère de miel
+    
 
-# En image 
+# En image
 
-![Jus de pomme de noel](images/recettes/jus_de_pomme_chaud.jpg){: .center width="300px" height="300px"}
-
+![](images/recettes/jus_de_pomme_chaud.jpeg)
