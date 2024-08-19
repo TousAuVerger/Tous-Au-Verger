@@ -34,4 +34,4 @@ title: Jus de pomme de noël !
 
 # En image
 
-![](images/recettes/jus_de_pomme_chaud.jpeg)
+<p style="text-align: center"><img src="images/recettes/jus_de_pomme_chaud.jpeg"></p>
