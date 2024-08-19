@@ -1,10 +1,29 @@
 media:
   input: docs/images
   output: images
+  
 content:
   - name: home
+    label: Accueil
     path: docs/index.md
     type: file
+  - name: team
+    label: Equipe
+    path: docs/equipe.md
+    type: file   
+  - name: contact
+    label: Contact
+    path: docs/contact.md
+    type: file
+  - name: logs
+    label: Journaux
+    path: docs/journaux.md
+    type: file
+  - name: event
+    label: Evenements
+    path: docs/evenements.md
+    type: file
+    
   - name: recettes
     label: Recettes
     path: docs/recettes
