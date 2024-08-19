@@ -1,3 +1,8 @@
 media:
   input: docs/images
   output: images
+content:
+  - name: recettes
+    label: Recettes
+    path: docs/recettes
+    type: collection
