@@ -7,6 +7,10 @@ content:
     label: Accueil
     path: docs/index.md
     type: file
+    fields: 
+      - name: body
+        label: Body
+        type: rich-text       
   - name: team
     label: Equipe
     path: docs/equipe.md
@@ -19,6 +23,10 @@ content:
     label: Contact
     path: docs/contact.md
     type: file
+    fields: 
+      - name: body
+        label: Body
+        type: rich-text       
   - name: logs
     label: On parle de nous
     path: docs/journaux.md
@@ -27,7 +35,10 @@ content:
     label: Evenements
     path: docs/evenements.md
     type: file
-    
+    fields: 
+      - name: body
+        label: Body
+        type: rich-text       
   - name: recettes
     label: Recettes
     path: docs/recettes
