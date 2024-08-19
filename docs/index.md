@@ -40,6 +40,6 @@ Une bande de bénévoles qui aiment notre patrimoine végétal et détestent le 
     - possibilité de greffage sur place par les animateurs  
     - greffage sur porte-greffes pour petits jardins (Cognassier M106, M26, M9)  
     Commentaires sur [Facebook](https://www.facebook.com/tousauverger/?locale=fr_FR)
-  image: img/greffage.jpg
+  image: images/cards/greffage.jpg
   
 ::/cards::
