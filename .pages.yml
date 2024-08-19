@@ -43,6 +43,12 @@ content:
       - name: body
         label: Body
         type: rich-text       
+
+  - name: cards
+    label: A venir
+    path: docs/cards.yaml
+    type: file
+        
   - name: recettes
     label: Recettes
     path: docs/recettes
