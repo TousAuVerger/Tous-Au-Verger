@@ -28,6 +28,8 @@ content:
     label: Recettes
     path: docs/recettes
     type: collection
+    fields: [title, author]
+      
   - name: verger
     label: Vergers
     path: docs/vergers
