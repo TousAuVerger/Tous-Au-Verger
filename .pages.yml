@@ -28,7 +28,7 @@ content:
     label: Recettes
     path: docs/recettes
     type: collection
-    fields: [title, author]
+    fields: [title, date, author]
       
   - name: verger
     label: Vergers
