@@ -31,6 +31,10 @@ content:
     label: On parle de nous
     path: docs/journaux.md
     type: file
+    fields: 
+      - name: body
+        label: Body
+        type: rich-text       
   - name: event
     label: Evenements
     path: docs/evenements.md
