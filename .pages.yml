@@ -28,8 +28,18 @@ content:
     label: Recettes
     path: docs/recettes
     type: collection
-
   - name: verger
     label: Vergers
     path: docs/vergers
     type: collection
+  - name: verger
+    label: Varietes
+    path: docs/varietes
+    type: collection
+
+  
+  
+  - name: falling-fruit
+    label: Zone de Glanage
+    path: docs/falling-fruit
+    type: collection    
