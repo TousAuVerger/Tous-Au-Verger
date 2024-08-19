@@ -32,7 +32,7 @@ content:
     label: Vergers
     path: docs/vergers
     type: collection
-  - name: verger
+  - name: varietes
     label: Varietes
     path: docs/varietes
     type: collection
