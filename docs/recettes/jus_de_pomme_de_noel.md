@@ -1,3 +1,8 @@
+---
+published: true
+date: 2024-08-19
+title: Jus de pomme de noël !
+---
 # Ingrédients (6 personnes)
 
 - 4 clous de girofle
