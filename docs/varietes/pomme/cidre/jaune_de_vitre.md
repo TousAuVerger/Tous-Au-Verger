@@ -1,3 +1,8 @@
+---
+date: 2024-08-19
+title: Pomme Jaune de Vitré
+variete: Pomme à cidre
+---
 ## Description
 
  Les **Jaune de Vitré** sont des pommes à Cidre.
