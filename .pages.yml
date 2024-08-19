@@ -41,5 +41,5 @@ content:
   
   - name: falling-fruit
     label: Zone de Glanage
-    path: docs/falling-fruit
+    path: docs/falling_fruit
     type: collection    
