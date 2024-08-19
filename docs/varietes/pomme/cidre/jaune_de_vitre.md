@@ -4,4 +4,4 @@
  
 ## Photo
 
-  ![Jaune de Vitre](images/jaune_de_vitre.jpg "http://gardenbreizh.org/photos/mf/photo-20844.html")
+  ![Jaune de Vitre](../../../images/varietes/jaune_de_vitre.jpg "http://gardenbreizh.org/photos/mf/photo-20844.html")
