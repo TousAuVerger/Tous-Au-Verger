@@ -10,7 +10,11 @@ content:
   - name: team
     label: Equipe
     path: docs/equipe.md
-    type: file   
+    type: file 
+    fields: 
+      - name: body
+        label: Body
+        type: rich-text        
   - name: contact
     label: Contact
     path: docs/contact.md
