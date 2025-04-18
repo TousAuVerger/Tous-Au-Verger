@@ -36,3 +36,7 @@ Aller sur [Umap](http://umap.openstreetmap.fr/fr/map/verger-de-vitre_543437) et 
 
 ## Ajouter une actu dans la page d'accueil
 - ajouter une image dans le repertoire img
+
+
+# DNS
+https://help.ovhcloud.com/
