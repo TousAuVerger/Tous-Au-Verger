@@ -37,6 +37,7 @@ markdown_extensions:
 
 extra_css:
   - css/neoteroi-mkdocs.css
+  - css/events.css
 #  - stylesheets/extra.css
 
 plugins:
@@ -49,6 +50,9 @@ plugins:
           remove_comments: true
         css_files:
         js_files:
+
+extra_javascript:
+  - js/events.js
 
 nav:
   - 'Association': index.md

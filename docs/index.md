@@ -27,6 +27,15 @@ Dans le pays de Vitré, mais nous sommes ouvert aux collaborations avec d'autres
 
 Une bande de bénévoles qui aiment notre patrimoine végétal et détestent le gaspi ! 
 
-## Événements à venir :
+## Événements à venir : 
 
-[cards cols=1 image-bg(./docs/cards.yaml)]
+<div id="events-container" data-view="future" data-order="ordered" data-image-color="color">
+<!-- Events will be dynamically inserted here -->
+</div>
+
+## Événements passés : 
+
+<div id="events-container" data-view="past" data-order="reversed" data-image-color="grey">
+<!-- Events will be dynamically inserted here -->
+</div>
+
