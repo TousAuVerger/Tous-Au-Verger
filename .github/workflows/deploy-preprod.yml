@@ -18,7 +18,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install mkdocs mkdocs-material neoteroi-mkdocs
+        run: pip install mkdocs mkdocs-material neoteroi-mkdocs mkdocs-minify-plugin
 
       - name: Build and Deploy
         run: mkdocs gh-deploy --remote-branch preprod --force
