@@ -26,4 +26,4 @@ jobs:
       - name: Build and Deploy
         env:
           SITE_URL: https://preprod.tousauverger.fr/
-        run: mkdocs gh-deploy --remote-branch preprod --force
+        run: mkdocs gh-deploy --remote-branch gh-pages-preprod --force
