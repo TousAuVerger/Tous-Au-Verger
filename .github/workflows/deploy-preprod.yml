@@ -20,6 +20,9 @@ jobs:
       - name: Install dependencies
         run: pip install mkdocs mkdocs-material neoteroi-mkdocs mkdocs-minify-plugin
 
+      - name: Create CNAME file
+        run: echo "preprod.tousauverger.fr" > docs/CNAME
+
       - name: Build and Deploy
         env:
           SITE_URL: https://preprod.tousauverger.fr/
