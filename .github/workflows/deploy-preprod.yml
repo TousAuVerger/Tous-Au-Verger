@@ -5,14 +5,39 @@ on:
     branches:
       - preprod
 
+#jobs:
+#  deploy:
+#    runs-on: ubuntu-latest
+#    steps:
+#      - name: Checkout code
+#        uses: actions/checkout@v3
+#
+#      - name: Setup Python
+#        uses: actions/setup-python@v4
+#        with:
+#          python-version: '3.x'
+#
+#      - name: Install dependencies
+#        run: pip install mkdocs mkdocs-material neoteroi-mkdocs mkdocs-minify-plugin
+#
+#      - name: Create CNAME file
+#        run: echo "preprod.tousauverger.fr" > docs/CNAME
+#
+#      - name: Build and Deploy
+#        env:
+#          SITE_URL: https://preprod.tousauverger.fr/
+#        run: mkdocs gh-deploy --remote-branch gh-pages-preprod --force
+
+
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
@@ -20,10 +45,16 @@ jobs:
       - name: Install dependencies
         run: pip install mkdocs mkdocs-material neoteroi-mkdocs mkdocs-minify-plugin
 
-      - name: Create CNAME file
-        run: echo "preprod.tousauverger.fr" > docs/CNAME
+      - name: Build site
+        run: mkdocs build
 
-      - name: Build and Deploy
-        env:
-          SITE_URL: https://preprod.tousauverger.fr/
-        run: mkdocs gh-deploy --remote-branch gh-pages-preprod --force
+      - name: Create CNAME file
+        run: echo "preprod.tousauverger.fr" > site/CNAME
+
+      - name: Deploy to preprod repo
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.DEPLOY_TOKEN }}
+          external_repository: TousAuVerger/Tous-Au-Verger-Preprod
+          publish_branch: gh-pages
+          publish_dir: ./site
