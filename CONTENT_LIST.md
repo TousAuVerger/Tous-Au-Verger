@@ -1,0 +1,28 @@
+- 'Association': index.md
+- 'Equipe': equipe.md
+- 'Evenements': evenements.md
+- 'Formations': formations.md
+- 'Zones de glanage':
+    - 'Vitré' : falling_fruit/vitre.md
+- 'Vergers':
+    - 'La Fleurias' : vergers/verger_la_fleuriais.md
+    - 'Beauvais' : vergers/verger_beauvais.md
+    - 'Parc Expo' : vergers/verger_parc_expo.md
+    - 'Les Ormaux' : vergers/verger_les_ormaux.md
+    - 'Mmo' : vergers/verger_mmo.md
+- 'Actions' :
+    - '2020':
+        - 'Cueillette de Kaki': actions/2020_12_kaki.md
+        - 'Jus de Pommes': actions/2020_10_jus.md
+        - 'Cueillette à Argentré': actions/2020_10_verger.md
+        - 'Taille à Vitré': actions/2020_04_taille.md
+        - 'Formation Taille': actions/2020_02_formation.md
+    - '2019':
+        - 'Jus de Pommes': actions/2019_10_jus.md
+        - 'Cueillette à Vitré': actions/2019_10_verger.md
+- 'Variétés':
+    - 'Jaune de Vitré': varietes/pomme/cidre/jaune_de_vitre.md
+- 'Recettes':
+    - 'Mousse de Kaki' : recettes/mousse_de_kaki.md
+- 'On parle de nous': journaux.md
+- 'Contact': contact.md

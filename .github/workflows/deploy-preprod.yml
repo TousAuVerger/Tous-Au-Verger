@@ -5,31 +5,6 @@ on:
     branches:
       - preprod
 
-#jobs:
-#  deploy:
-#    runs-on: ubuntu-latest
-#    steps:
-#      - name: Checkout code
-#        uses: actions/checkout@v3
-#
-#      - name: Setup Python
-#        uses: actions/setup-python@v4
-#        with:
-#          python-version: '3.x'
-#
-#      - name: Install dependencies
-#        run: pip install mkdocs mkdocs-material neoteroi-mkdocs mkdocs-minify-plugin
-#
-#      - name: Create CNAME file
-#        run: echo "preprod.tousauverger.fr" > docs/CNAME
-#
-#      - name: Build and Deploy
-#        env:
-#          SITE_URL: https://preprod.tousauverger.fr/
-#        run: mkdocs gh-deploy --remote-branch gh-pages-preprod --force
-
-
-
 jobs:
   deploy:
     runs-on: ubuntu-latest

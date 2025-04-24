@@ -85,15 +85,24 @@
     color: #999; /* Even more muted color for the "Passé" text */
 }
 
-/* Toggle switch styling */
-.event-toggle-container {
-    float: right; /* Align to the right */
-    font-size: 0.8em; /* Reduce font size */
-    font-style: italic; /* Italicize the text */
-    display: flex;
-    align-items: center;
+/* Loading spinner */
+.events-loading {
+  text-align: center;
+  padding: 20px;
+  color: #666;
 }
 
-.switch {
-    // ...existing code...
+.spinner {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border: 3px solid rgba(0,128,0,0.2);
+  border-radius: 50%;
+  border-top-color: #4CAF50;
+  animation: spin 1s ease-in-out infinite;
+  margin-bottom: 10px;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
 }
