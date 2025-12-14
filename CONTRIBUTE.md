@@ -15,7 +15,12 @@
 
 - `mkdocs build` pour verifier que tout va bien (corriger le cas échéant)
 - `mkdocs build --verbose` pour avoir plus de logs
-- `mkdocs gh-deploy --force` pour mettre a jour le site github pages
+- `mkdocs gh-deploy --force` pour mettre à jour le site github pages
+
+## Deploiement sur le site de preproduction (Pour les devs)
+
+Depuis la branch preprod :
+- git push 
 
 # Contenus
 
