@@ -48,7 +48,7 @@ Une bande de bénévoles qui aiment notre patrimoine végétal et détestent le 
 Lors d’expositions, de rencontres, d’animations, fabrication de jus de pommes…
 Lors de manifestations près des Municipalités, publiques ou privées
 
-## Merci beaucoup.Comment participez à nos activités ?
+## Comment participez à nos activités ?
 
 Lors de réunions agréables et conviviales, en nous aidant lors de ramassages de fruits, d’entretien de
 vergers, à la fabrication de jus de pommes…
