@@ -1,4 +1,4 @@
-name: mkdocs-pages-ci
+name: Deploy Prod
 
 on:
   push:
@@ -8,9 +8,8 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Setup Python
@@ -21,10 +20,13 @@ jobs:
       - name: Install dependencies
         run: pip install mkdocs mkdocs-material neoteroi-mkdocs mkdocs-minify-plugin
 
+      - name: Build site
+        run: mkdocs build
+
       - name: Create CNAME file
-        run: echo "www.tousauverger.fr" > docs/CNAME
+        run: echo "www.tousauverger.fr" > site/CNAME
 
       - name: Build and Deploy
         env:
           SITE_URL: https://www.tousauverger.fr/
-        run: mkdocs gh-deploy --remote-branch gh-pages-preprod --force
+        run: mkdocs gh-deploy --remote-branch gh-pages --force
