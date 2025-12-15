@@ -1,9 +1,5 @@
 # Tous au verger
 
-## Notre action
-
-Valorise les arbres fruitiers délaissés !
-
 ![Tous au Verger](images/logo.jpg){: .center width="300px" height="300px"}
 
 ## Que fait "Tous au Verger" ?
@@ -37,11 +33,11 @@ arbres.
 
 ## Où sommes-nous ?
 
-Dans le pays de Vitré, mais nous sommes ouvert aux collaborations avec d'autres villages, pays.
+En Ille et Vilaine et plus précisément dans le Pays de Vitré et autour de Rennes. Mais nous sommes ouvert à toutes les collaborations.
 
 ## Qui sommes-nous ?
 
-Une bande de bénévoles qui aiment notre patrimoine végétal et détestent le gaspi ! 
+Une bande de bénévoles qui aiment notre patrimoine végétal, qui souhaitent transmettre un savoir faire et détestent le gaspi ! 
 
 ## Nous sommes présents :
 
