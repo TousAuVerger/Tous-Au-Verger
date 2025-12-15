@@ -69,7 +69,7 @@ Liste des evenements (lecture seule) :
 - [Fichier excel publié en HTML](https://docs.google.com/spreadsheets/d/e/2PACX-1vQGs5jLZ5O8hINJqv9GoR-GG4P57ceLdZIyzBo8oMC7lHI0HYQEsHv0U1gYyatjciroHZ4Z2L-j7oKZ/pub?gid=0&single=true&output=html)
 - [Fichier excel publié en CSV](https://docs.google.com/spreadsheets/d/e/2PACX-1vQGs5jLZ5O8hINJqv9GoR-GG4P57ceLdZIyzBo8oMC7lHI0HYQEsHv0U1gYyatjciroHZ4Z2L-j7oKZ/pub?gid=0&single=true&output=csv)
 
-Liste des evenments (édition) :
+Liste des evenements (édition) :
 - https://docs.google.com/spreadsheets/d/1oXOlIHnJ-YtRRvtpALcW66Up9oh56V_rtVji2F6gLcg/edit?gid=0#gid=0
 
 Gestion du cache (pour verifier les mises à jour immediateness),
